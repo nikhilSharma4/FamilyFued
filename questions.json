@@ -1,0 +1,30 @@
+[
+    {
+        "q": "Name a street food Jannat cannot resist",
+        "answers": [["Pani Puri/Gol Gappa", 35], ["Pav Bhaji", 25], ["Papri Chaat", 15], ["Samosa", 10], ["Maggi", 8], ["Aloo Tikki", 4], ["Bhel Puri", 2], ["Vada Pav", 1]]
+    },
+    {
+        "q": "Name something Jannat spends the most money on",
+        "answers": [["Food/Eating", 32], ["Shopping", 24], ["Makeup/Skincare", 18], ["Shoes", 10], ["Bills", 8], ["Remitly/sending money home", 4], ["Coffee", 3], ["Uber/Cabs", 1]]
+    },
+    {
+        "q": "Name a classic dialogue Jannat hears from her parents",
+        "answers": [["Phone chhod do!", 38], ["Shaadi kab karogi?", 20], ["Eat food", 15], ["Paise bachao", 10], ["Padhai Karlo", 8], ["Log kya kahenge", 5], ["Room saaf karo", 3], ["Sehat ka dyan rakho", 1]]
+    },
+    {
+        "q": "Name something you will always find in Jannat's bag",
+        "answers": [["Phone", 45], ["Lipstick/Balm", 20], ["Hair tie/Clutch", 12], ["Sanitizer", 8], ["Wallet", 6], ["Tissue", 4], ["Pen", 3], ["Handcream", 2]]
+    },
+    {
+        "q": "Name Jannat's favorite festival to celebrate",
+        "answers": [["Diwali", 36], ["Christmas", 22], ["Raksha Bandhan", 15], ["Navratri", 12], ["Dusehra", 8], ["Bhaidooj", 4], ["Her Birthday", 2], ["New Year", 1]]
+    },
+    {
+        "q": "What is the first thing Jannat does when she wakes up?",
+        "answers": [["Check phone/Insta", 48], ["Drink Chai/Tea", 20], ["Snooze alarm", 12], ["Yell at Nikhil", 8], ["Brush teeth", 6], ["Drink water", 3], ["Go back to sleep", 2], ["Check work emails", 1]]
+    },
+    {
+        "q": "Name something Jannat says when she is running late",
+        "answers": [["I am never late", 40], ["Something very serious happened", 25], ["Slept thorugh my alarm", 12], ["So gayi alarm band karke", 10], ["On the way", 6], ["Looking for parking", 4], ["It's not my fault", 2], ["Chup reh tu", 1]]
+    }
+]
